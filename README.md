@@ -1,1 +1,1 @@
-# cb_global_error_tracker
+Global Error Tracker
